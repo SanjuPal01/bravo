@@ -1,6 +1,2 @@
-mode: set
-example.com/mocking/printing.go:15.34,17.2 1 0
-example.com/mocking/printing.go:19.38,21.26 2 1
-example.com/mocking/printing.go:26.2,26.12 1 1
-example.com/mocking/printing.go:21.26,25.3 2 1
-example.com/mocking/printing.go:29.13,32.2 2 0
+exmaple.com/Arithmetic/operations.go:3.24,5.2 1 1
+exmaple.com/Arithmetic/operations.go:7.24,9.2 1 1
