@@ -1,3 +1,3 @@
-module exmaple.com/Arithmetic
+module example.com/mocking
 
 go 1.17
